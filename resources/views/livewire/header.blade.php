@@ -1,3 +1,6 @@
 <div>
-    {{-- The Master doesn't talk, he acts. --}}
+    <ul>
+        <li>Home</li>
+        <li>About</li>
+    </ul>
 </div>
